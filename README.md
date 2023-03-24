@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imtiazshawn01" target="blank"><img src="https://img.shields.io/twitter/follow/imtiazshawn01?logo=twitter&style=for-the-badge" alt="imtiazshawn01" /></a> </p>
 
-- 🔭 I’m currently working on Technofelia [Druuto](https://druuto.com/)
+- 🔭 I’m currently working on Technofelia
 
 - 🌱 I’m currently learning **Express JS**
 
