@@ -1,37 +1,38 @@
-<h1 align="center">Hi 👋, I'm Imtiaz Shawn</h1>
-<h3 align="center">A passionate Vue.js developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+# Hi there, I'm Imtiaz Shawn 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazshawn&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazshawn" /> </p>
+Welcome to my GitHub profile! I'm a passionate Mobile Application Developer from Chittagong, Bangladesh. I currently work at Ultimate IT Solution LTD. Previously, I have worked at Pigeon-Soft and Technofelia as a Web Application Developer. My experience includes working with technologies such as Vue.js and React.js.
 
-<p align="left"> <a href="https://twitter.com/imtiazshawn01" target="blank"><img src="https://img.shields.io/twitter/follow/imtiazshawn01?logo=twitter&style=for-the-badge" alt="imtiazshawn01" /></a> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on Technofelia
+- 🌱 I’m currently learning more about advanced React Native and exploring Machine Learning with Python.
+- 👨‍💻 All of my projects are available at [My Portfolio](https://imtiaz-shawn.netlify.app/)
+- 💬 Ask me about React Native, React.js, and JavaScript
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiazshawn/)
 
-- 🌱 I’m currently learning **Express JS**
+## 🛠️ Skills
 
-- 👨‍💻 All of my projects are available at [https://imtiazshawn.com](https://imtiazshawn.com)
+### Languages & Frameworks
+- **Mobile Development**: React Native
+- **Web Development**: React.js, Vue.js, JavaScript
+- **Backend Development**: Basic Python, Basic FastAPI
+- **Database**: Basic MSSQL
 
-- 💬 Ask me about **MERN**
+## 🔧 Tools & Technologies
+- **Version Control**: Git, GitHub
+- **IDEs**: VSCode, Android Studio
+- **Others**: Postman, Figma
 
-- 📫 How to reach me **imtiazshawn0@gmail.com**
+## 🏢 Work Experience
+- **Ultimate IT Solution LTD**: Mobile Application Developer (Present)
+- **Pigeon-Soft**: Web Application Developer
+- **Technofelia**: Web Application Developer
 
-- 📄 Know about my experiences [https://imtiazshawn.com/resume](https://imtiazshawn.com/resume)
+## 🌐 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiazshawn/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://imtiaz-shawn.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imtiazshawn01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imtiazshawn01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imtiazshawn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiazshawn" height="30" width="40" /></a>
-<a href="https://fb.com/imtiazshawn0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imtiazshawn0" height="30" width="40" /></a>
-</p>
+## 📈 GitHub Stats
+![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiazshawn&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazshawn&show_icons=true&locale=en&layout=compact" alt="imtiazshawn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazshawn&show_icons=true&locale=en" alt="imtiazshawn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazshawn&" alt="imtiazshawn" /></p>
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazshawn&layout=compact&theme=radical)
