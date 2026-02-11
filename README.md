@@ -1,6 +1,6 @@
 # Hi there, I'm Imtiaz Shawn 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Developer from Chittagong, Bangladesh. I currently work at Ultimate IT Solution LTD. Previously, I have worked at Pigeon-Soft and Technofelia as a Web Application Developer. My experience includes working with technologies such as Next.js, React.js and TypeScript.
+Welcome to my GitHub profile! I'm a passionate Software Developer from Chittagong, Bangladesh. I currently work at W3Engineers Ltd. Previously, I have worked at Pigeon-Soft and Technofelia as a Web Application Developer. My experience includes working with technologies such as Next.js, React.js and TypeScript.
 
 ## 🚀 About Me
 
