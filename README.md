@@ -1,37 +1,26 @@
 # Hi there, I'm Imtiaz Shawn 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Developer from Chittagong, Bangladesh. I currently work at W3Engineers Ltd. Previously, I have worked at Pigeon-Soft and Technofelia as a Web Application Developer. My experience includes working with technologies such as Next.js, React.js and TypeScript.
+I am a Software Engineer with 4+ years of experience specializing in building scalable web platforms and production-grade AI-integrated systems. I bridge the gap between complex frontend interfaces and intelligent backend orchestration.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning more about advanced TypeScript.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://imtiaz-shawn.netlify.app/)
-- 💬 Ask me about TypeScript, Next.js, and JavaScript
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiazshawn/)
+- 🏢 Currently working as a **Software Engineer at W3Engineers Ltd.**
+- 🧠 Focused on **AI Agentic Workflows, System Architecture, and Performance Engineering.**
+- 🛠️ Expert in: **React.js, Next.js, TypeScript, and FastAPI.**
+- 💬 Ask me about: **Building production-grade SaaS, AI Pipeline Orchestration (Celery/Redis), and Frontend Scaling.**
+- 📫 Reach out: [imtiazshawn0@gmail.com](mailto:imtiazshawn0@gmail.com) | [LinkedIn](https://www.linkedin.com/in/imtiazshawn/)
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
-- **Web Development**: React.js, Next.js, TypeScript, JavaScript
-- **Backend Development**: Basic Python, Basic FastAPI
-- **Database**: Basic MSSQL
+- **Frontend**: React.js, Next.js (SSR, SSG), TypeScript, Tailwind CSS, GrapesJS.
+- **Backend & AI**: Python, FastAPI, GenAI Integration (LangGraph/RAG), Node.js.
+- **Infrastructure**: Docker, Celery, Redis, CI/CD, PostgreSQL, Supabase.
+- **Tools**: Git, GitHub, Postman, Docker.
 
-## 🔧 Tools & Technologies
-- **Version Control**: Git, GitHub
-- **IDEs**: VSCode, Android Studio
-- **Others**: Postman, Figma
+## 💼 Featured Projects
 
-## 🏢 Work Experience
-- **Ultimate IT Solution LTD**: Front-End Developer (Present)
-- **Pigeon-Soft**: Front-End Developer
-- **Technofelia**: Front-End Developer
-
-## 🌐 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiazshawn/)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://imtiaz-shawn.netlify.app/)
+- **[ChitraAI](https://github.com/imtiazshawn/chitraai)**: A multi-agent content automation engine built with Next.js, FastAPI, Celery, and Redis. It orchestrates complex video processing pipelines for automated content creation.
+- **[Restaurant SaaS](https://github.com/imtiazshawn/restaurant-saas)**: An end-to-end SaaS solution for restaurant operations with real-time data syncing and multi-tenant infrastructure.
 
 ## 📈 GitHub Stats
 ![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiazshawn&show_icons=true&theme=radical)
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazshawn&layout=compact&theme=radical)
